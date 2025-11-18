@@ -1,0 +1,29 @@
+section{
+		min-height: 210px;
+		border:2px solid;
+		padding-left: 100px;
+	}
+	#banner{
+		background-color: skyblue;
+		margin-bottom: 10px;
+	}
+	#section2{
+		background-color: lavender;
+		margin-bottom:10px ;
+	}
+	#section3{
+		background-color:lightpink;
+	}
+	.link{
+		text-decoration: none;
+		margin-left: 100px;
+	}
+	footer{
+		text-align: center;
+	}
+	header{
+		text-align: center;
+	}
+
+
+
